@@ -3,7 +3,6 @@ A website showcasing a collection of photos taken over the years, capturing the 
 By Becky Chepchumba
 Description
 The Photography Website is a personal portfolio containing a collection of photos taken over the years, each representing cherished memories. It allows visitors to explore the photos in a simple, clean layout. The website is designed to preserve and share beautiful moments through images.
-
 Setup/Installation Requirements
 You need to run the website on a server.
 
